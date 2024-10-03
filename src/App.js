@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Basic React-App Using the Azure Please Work This Time.....
+          Basic React-App Using the Azure Please Work This Time Pakka.....
         </p>
         <a
           className="App-link"
